@@ -1,5 +1,4 @@
-i = 0
-x = [5, 4, 5] #this is the number, input 1 digit per index
+x = [5, 4, 5, 6, 7, 2, 7, 1, 8, 9, 4] #this is the number, input 1 digit per index
 
 print(sum(x))
 num = sum(x)
@@ -15,3 +14,5 @@ for q in range(4):
 
     print(sum(x))
     num = sum(x)
+
+    number_string = str(num)
