@@ -1,4 +1,4 @@
-x = [5, 4, 5, 6, 7, 2, 7, 1, 8, 9, 4] #this is the number, input 1 digit per index
+x = [7235] #this is the number, just input a number into the array, don't have to do each digit seperatetly
 
 print(sum(x))
 num = sum(x)
